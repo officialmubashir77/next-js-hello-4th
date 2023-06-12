@@ -1,0 +1,11 @@
+	//4th Setup , Installation , and Creating Our First App
+
+//	> Install Node Js in Your System Thorugh NVM Node Version Manager.
+//	> Terminal or Cmd Open check npm -v and node -v
+//	> and Install Next JS in your cmd or Terminal in your Folder
+//	> npx create-next-app@latest
+//	> after install cd access Folder
+//	> npm run dev to start your project on your local sever
+
+//>>	package.json > dependencies File is most important file in our Project is depend on package.json file.
+ 
